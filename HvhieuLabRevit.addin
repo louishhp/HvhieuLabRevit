@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>HvhieuLabRevit</Name>
+		<FullClassName>HvhieuLabRevit.lab1</FullClassName>
+		<Text>HvhieuRevitLab1</Text>
+		<Description>Showlab1 by hvhieu.</Description>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+		<Assembly>HvhieuLabRevit.dll</Assembly>
+		<AddInId>ed70ee27-9378-428d-a7d4-8cfb05e19d81</AddInId>
+		<VendorId>hvhieu</VendorId>
+		<VendorDescription>Hvhieu, Inc, www.autodesk.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>
